@@ -30,6 +30,7 @@
         f = fetch
         dh1 = diff HEAD~1
         pushh = push -u origin HEAD
+        bco = !git b $1 && git co
 
         # Fancy logging.
         #   h = head
