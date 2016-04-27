@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/zenburn/zenburn.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "UTF-8",
+	"find_selected_text": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		79
+	],
+	"save_on_focus_lost": true,
+	"theme": "zenburn.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
